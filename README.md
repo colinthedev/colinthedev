@@ -4,6 +4,8 @@
 
 #### And i am currently learning react. :man_technologist: :atom:
 
+### Check out my latest project im currently building... you can find it here [https://github.com/colinthedev/yelper]
+
 _______________________________________________________________
 
 ### You can reach me @
