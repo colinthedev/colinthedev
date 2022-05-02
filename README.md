@@ -1,4 +1,4 @@
-# **Oh well hello there!  i'm colin** :space_invader:
+
 _______________________________________________________________
 
 ### You can reach me @
