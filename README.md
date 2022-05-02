@@ -1,11 +1,4 @@
 # **Oh well hello there!  i'm colin** :space_invader:
-
-####  I'm a front end developer with the thirst to become a fullstack developer, but lets take this one day at a time. :+1:
-
-#### And i am currently learning react. :man_technologist: :atom:
-
-#### Check out my latest project im currently building in react... you can find it here [https://github.com/colinthedev/yelp-cloner-full-stack]
-
 _______________________________________________________________
 
 ### You can reach me @
