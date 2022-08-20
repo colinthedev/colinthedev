@@ -3,8 +3,6 @@ _______________________________________________________________
 
 ### You can reach me @
 ####      -**Email**  [colinthedev@gmail.com]
-####      -**Twitter** [https://twitter.com/colinthedev]
-####      -**Website** [https://www.colinpetersthedev.com/]
 
 ______________________________________________________________
 
