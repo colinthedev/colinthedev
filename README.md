@@ -1,6 +1,3 @@
-
-_______________________________________________________________
-
 ### You can reach me @
 ####      -**Email**  [colinthedev@gmail.com]
 
@@ -35,4 +32,3 @@ You can click the Preview link to take a look at your changes.
 #### Services
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/asana-%23000000.svg?style=for-the-badge&logo=asana&logoColor=rgb(240,%20106,%20106))
 ---
-[![](https://visitcount.itsvg.in/api?id=colinthedev&icon=2&color=12)](https://visitcount.itsvg.in)
