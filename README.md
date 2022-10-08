@@ -12,7 +12,7 @@ colinthedev/colinthedev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # :pancakes: About  :sleeping:  Me :technologist:
-🔭 currently working on an e-commerce site built with Astro and Snipcart.<br><br>
+🔭 currently working on a new portfolio site && e-commerce site built with Astro and Snipcart.<br><br>
 
 
 ## 🌐 Socials:
