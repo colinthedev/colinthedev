@@ -11,8 +11,6 @@ _______________________________________________________________
 colinthedev/colinthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🔭 currently working on a new portfolio site && e-commerce site built with Astro and Snipcart.<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/colinthedev) 
